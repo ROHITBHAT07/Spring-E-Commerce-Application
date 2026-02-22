@@ -67,7 +67,7 @@ Run npm install to install dependencies.
 Run npm start to start the development server.
 📂 Folder Structure (Backend)
 
-com.telusko.springecom
+com.example.springecom
 ├── controller # REST controllers (ProductController)
 ├── service # Service layer interfaces and implementations
 ├── repository # Spring Data JPA repositories
